@@ -19,7 +19,7 @@ ros2 launch iiwa_bringup iiwa.launch_new.py command_interface:="velocity" robot_
 $ ros2 run rqt_image_view  rqt_image_view 
 ```
 ```
-ros2 run ros2_opencv ros2_open_cv_node 
+ros2 run ros2_opencv ros2_opencv_node 
 ```
 ## SECOND POINT
 2.a
